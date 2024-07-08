@@ -1,0 +1,3 @@
+* ATTENTION
+
+The owner of this repository doesn't maintain this repository anymore. This is just an redirect message. The owner is more engaged with his projects in [[https://gitlab.com/rootminusone8004][gitlab]] and [[https://codeberg.com/rootminusone8004][codeberg]]. So please visit those instead.
